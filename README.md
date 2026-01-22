@@ -1,13 +1,3 @@
-<h3 align="center">
-Postdoctoral Researcher in Medical Imaging · Cardiac MRI · Brain MRI · Quantitative & AI-based Reconstruction
-</h3>
-
-<p align="center">
-📍 UCLA · David Geffen School of Medicine
-</p>
-
----
-
 ## Research interests
 
 - MR Fingerprinting for brain quantification of microvasculature
