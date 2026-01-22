@@ -8,14 +8,6 @@ Postdoctoral Researcher in Medical Imaging · Cardiac MRI · Brain MRI · Quanti
 
 ---
 
-## About me
-
-I am a medical imaging researcher and physicist specializing in **Magnetic Resonance Imaging**, with a focus on **physics-driven reconstruction**, **quantitative imaging**, and **AI-based generative models**.
-
-My work bridges **MRI signal modeling**, **low-rank / subspace methods**, and **modern deep learning**, with applications to myocardial/brain microvascular imaging and free-running CMR.
-
----
-
 ## Research interests
 
 - MR Fingerprinting for brain quantification of microvasculature
